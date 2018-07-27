@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ListViewArrayAdaperApp</string>
+
+    <string name="skill_part"><u>Technical Skill:</u></string>
+
+    <string-array name="technical_skill">
+
+        <item>Programming Language: C, C++, Java</item>
+        <item>Web Technologies: HTML, CSS, JavaScript, PHP, Asp.Net (MVC)</item>
+        <item>Database: MySQL, Microsoft SQL Server</item>
+        <item>Reporting &amp; Documentation: Microsoft Office</item>
+        <item>Language: Fluent in Bangla and English</item>
+        <item>Basic of Linux: UBUNTU</item>
+
+    </string-array>
+</resources>
