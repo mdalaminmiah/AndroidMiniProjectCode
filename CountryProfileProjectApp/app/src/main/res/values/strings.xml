@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">CountryProfileProjectApp</string>
+    <string name="bangladesh">Bangladesh</string>
+    <string name="india">India</string>
+    <string name="pakisthan">Pakisthan</string>
+    <string name="alert_title">This is a title</string>
+    <string name="alert_massege">Do you want to exit?</string>
+    <string name="bangladesh_profile">
+
+        The Culture of Bangladesh refers to the way of life of the people of Bangladesh.
+        It has evolved over the centuries and encompasses the cultural diversity of several social groups
+        of Bangladesh. The Bengal Renaissance of the 19th and early 20th centuries, noted Bengali writers,
+        saints, authors, scientists, researchers, thinkers, music composers, painters, and film-makers have played
+        a significant role in the development of Bengali culture. The Bengal Renaissance contained the seeds of a
+        nascent political Indian nationalism and was the precursor in many ways to modern Indian artistic and cultural
+        expression. The culture of Bangladesh is composite and over the centuries has assimilated influences of Islam,
+        Hinduism, Buddhism, and Christianity. It is manifested in various forms, including music, dance, and drama; art
+        and craft; folklore and folktale; languages and literature; philosophy and religion; festivals and celebrations;
+
+
+        as well as in a distinct cuisine and culinary tradition.People in Bangladesh are the best of all
+
+
+    </string>
+    <string name="india_profile">
+        India (IAST: Bhārat), also called the Republic of India (IAST: Bhārat Gaṇarājya),[19][e] is a country in South Asia.
+        It is the seventh-largest country by area, the second-most populous country (with over 1.2 billion people),
+        and the most populous democracy in the world. It is bounded by the Indian Ocean on the south, the Arabian Sea on the southwest,
+        and the Bay of Bengal on the southeast. It shares land borders with Pakistan to the west;[f] China, Nepal, and Bhutan to the
+        northeast; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives.
+        India\'s Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia. \n\n
+
+        The Indian subcontinent was home to the urban Indus Valley Civilisation of the 3rd millennium BCE. In the following millennium,
+        the oldest scriptures associated with Hinduism began to be composed. Social stratification, based on caste, emerged
+        in the first millennium BCE, and Buddhism and Jainism arose. Early political consolidations took place under the Maurya
+        and Gupta empires; the later peninsular Middle Kingdoms influenced cultures as far as southeast Asia. In the medieval era,
+        Judaism, Zoroastrianism, Christianity, and Islam arrived, and Sikhism emerged, all adding to the region's diverse culture.
+        Much of the north fell to the Delhi sultanate; the south was united under the Vijayanagara Empire. The economy expanded
+        in the 17th century in the Mughal Empire. In the mid-18th century, the subcontinent came under British East India Company
+        rule, and in the mid-19th under British crown rule. A nationalist movement emerged in the late 19th century, which later,
+        under Mahatma Gandhi, was noted for nonviolent resistance and led to India's independence in 1947.
+
+
+    </string>
+    <string name="pakisthan_profile">
+        The territory that now constitutes Pakistan was the site of several ancient cultures,
+        including the Mehrgarh of the Neolithic and the Bronze Age Indus Valley Civilisation,
+        and was later home to kingdoms ruled by people of different faiths and cultures, including
+        Hindus, Indo-Greeks, Muslims, Turco-Mongols, Afghans, and Sikhs. The area has been ruled by numerous
+        empires and dynasties, including the Persian Achaemenid Empire, Alexander III of Macedon, the Indian Mauryan
+        Empire, the Arab Umayyad Caliphate, the Gupta Empire,[26] the Delhi Sultanate, the Mongol Empire, the Mughal Empire,
+        the Afghan Durrani Empire, the Sikh Empire (partially), and, most recently, the British Empire. \n\n
+
+        Pakistan is the only country to have been created in the name of Islam.[27][28] As a result of the Pakistan
+        Movement led by Muhammad Ali Jinnah and the Indian subcontinent's struggle for independence, Pakistan was created in 1947
+        as an independent homeland for Indian Muslims.[29] It is an ethnically and linguistically diverse country, with a
+        similarly diverse geography and wildlife. Initially a dominion, Pakistan adopted a constitution in 1956, becoming an
+        Islamic republic. An ethnic civil war in 1971 resulted in the secession of East Pakistan as the new country of Bangladesh.
+        [30] In 1973 Pakistan adopted a new constitution establishing, alongside its pre-existing parliamentary republic status,
+        a federal government based in Islamabad consisting of four provinces and three federal territories. The new constitution
+        also stipulated that all laws are to conform to the injunctions of Islam as laid down in the Quran and Sunnah.[31]
+
+
+
+    </string>
+</resources>
